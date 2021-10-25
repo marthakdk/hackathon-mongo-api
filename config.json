@@ -1,0 +1,4 @@
+{
+    "connectionString": "mongodb://localhost/hackathon-node-mongo-api",
+    "secret": "kraken"
+}
